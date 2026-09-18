@@ -108,7 +108,6 @@ The analysis shows that previous grades have the strongest relationship with fin
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
 ```
 
 ### 2. Navigate to the project directory
